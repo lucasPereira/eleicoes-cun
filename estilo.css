@@ -2,9 +2,8 @@
 
 .lado {
 	background-color: #9C2157;
-	height: 209mm;
+	height: 210mm;
 	width: 148mm;
-	/* border: 2px solid #000; */
 }
 
 .informacoes > h1 {
@@ -63,7 +62,6 @@
 
 .candidato:nth-child(2n+1) {
 	background-color: #E1E1E1;
-	/* text-align: right; */
 }
 
 .candidato > img {
@@ -161,6 +159,6 @@
 .apoios > table th,
 .apoios > table td {
 	font-family: sans-serif;
-	padding: 0.4rem;
+	padding: 0.35rem;
 	text-align: left;
 }
